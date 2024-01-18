@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:t3element/Resources/Private/Language/locallang_t3element.xlf" date="2023-02-25T07:50:45Z" product-name="t3element">
+		<header/>
+		<body>
+			<trans-unit id="tx_t3element_domain_model_elements" resname="tx_t3element_domain_model_elements">
+				<source>Elements</source>
+			</trans-unit>
+			<trans-unit id="tx_t3element_domain_model_elements.data" resname="tx_t3element_domain_model_elements.data">
+				<source>Data</source>
+			</trans-unit>
+			<trans-unit id="tx_t3element_domain_model_themeconfig" resname="tx_t3element_domain_model_themeconfig">
+				<source>Theme config</source>
+			</trans-unit>
+			<trans-unit id="tx_t3element_domain_model_license" resname="tx_t3element_domain_model_license">
+				<source>License</source>
+			</trans-unit>
+			<trans-unit id="tx_t3element_domain_model_themeconfig.header" resname="tx_t3element_domain_model_themeconfig.header">
+				<source>Header</source>
+			</trans-unit>
+			<trans-unit id="tx_t3element_domain_model_themeconfig.footer" resname="tx_t3element_domain_model_themeconfig.footer">
+				<source>Footer</source>
+			</trans-unit>
+			<trans-unit id="tx_t3element_domain_model_themeconfig.cssjs" resname="tx_t3element_domain_model_themeconfig.cssjs">
+				<source>Css Js</source>
+			</trans-unit>
+			<trans-unit id="tx_t3element_domain_model_themeconfig.menu" resname="tx_t3element_domain_model_themeconfig.menu">
+				<source>Menu</source>
+			</trans-unit>
+			<trans-unit id="tx_t3element_domain_model_themeconfig.langm" resname="tx_t3element_domain_model_themeconfig.langm">
+				<source>Language Menu</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

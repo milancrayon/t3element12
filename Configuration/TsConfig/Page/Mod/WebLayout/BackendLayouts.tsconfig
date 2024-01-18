@@ -1,0 +1,2 @@
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:t3element/Configuration/TsConfig/Page/Mod/WebLayout/BackendLayouts" extensions="tsconfig"> 
+    
