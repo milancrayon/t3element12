@@ -1,0 +1,7 @@
+t3element:
+  payloadKey: 'json'
+  routing:
+    basePath: '/api'
+routeEnhancers:
+  T3element:
+    type: T3Enhancer
